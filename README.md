@@ -1,4 +1,4 @@
-# Parcel Experiments 
+# React-Study
 Setting up a professional React project with Parcel as a code bundler
 
 ## Feater
@@ -8,3 +8,8 @@ Setting up a professional React project with Parcel as a code bundler
 * CSS Modules
 * Typography.js
 * Build for production
+
+### Index
+* checkbox
+* input
+* component
