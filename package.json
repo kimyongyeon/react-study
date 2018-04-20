@@ -7,6 +7,7 @@
   "license": "MIT",
   "dependencies": {
     "autoprefixer": "^8.2.0",
+    "lodash": "^4.17.5",
     "node-sass": "^4.8.3",
     "postcss-modules": "^1.1.0",
     "react": "^16.3.1",

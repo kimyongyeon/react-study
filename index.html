@@ -8,6 +8,16 @@
 </head>
 <body>
     <div id="app"></div>
+    <div id="commentHtml"></div>
+    <script type="text/html" id="userlist">
+        <ul>
+            <% _.forEach(users, function(user) { %>
+                <li><%- user %></li> 
+            <% }); %> 
+        </ul>
+    </script>
+            
     <script src="./index.js"></script>
+
 </body>
 </html>
